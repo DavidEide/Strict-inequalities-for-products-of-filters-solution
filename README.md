@@ -1,10 +1,10 @@
 # Strict inequalities for products of filters
 
-**Status:** Preprint — not peer reviewed.
+**Status:** Preprint — not peer-reviewed.
 
 **Author:** David Immanuel Eidenas
 
-Late one night, I was looking for a small maths problem I could attempt to solve either entirely with AI or with substantial AI assistance. I selected this problem at random from Open Problem Garden and decided to give it a go.
+Late one night, I was looking for a small maths problem I could attempt to solve either entirely with AI or with substantial AI assistance. I selected this problem at random from Open Problem Garden and decided to give it a go. I make no statement or opinion on anything regarding this segment of mathematics beyond what I've published here. 
 
 An affirmative solution to [Open Problem Garden problem 37339](https://www.openproblemgarden.org/op/strict_inequalities_for_products_of_filters), using Victor Porton's corrected definition of the oblique product.
 
